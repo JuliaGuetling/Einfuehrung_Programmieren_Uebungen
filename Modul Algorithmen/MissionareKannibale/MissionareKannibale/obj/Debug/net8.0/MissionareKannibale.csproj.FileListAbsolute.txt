@@ -1,0 +1,29 @@
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.AssemblyInfoInputs.cache
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.AssemblyInfo.cs
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.exe
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.deps.json
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.runtimeconfig.json
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.dll
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.pdb
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.dll
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\refint\MissionareKannibale.dll
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.pdb
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.genruntimeconfig.cache
+C:\Users\Julia Gütling\Documents\Visual Studio 2022\Projects\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\ref\MissionareKannibale.dll
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.exe
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.deps.json
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.runtimeconfig.json
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.dll
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\bin\Debug\net8.0\MissionareKannibale.pdb
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.AssemblyInfoInputs.cache
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.AssemblyInfo.cs
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.sourcelink.json
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.dll
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\refint\MissionareKannibale.dll
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.pdb
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\MissionareKannibale.genruntimeconfig.cache
+C:\Users\Julia Gütling\source\Repos\Einfuehrung_Programmieren_Uebungen\Modul Algorithmen\MissionareKannibale\MissionareKannibale\obj\Debug\net8.0\ref\MissionareKannibale.dll
